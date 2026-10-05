@@ -32,3 +32,20 @@
 }
 .vikav-page h1 { color: #7542a3; }
 .vikav-page a { color: #7542a3; }
+
+.Laskin-page {
+  font-family: Arial, sans-serif;
+  background: #f3effa;
+  color: #6d1a1a;
+  margin: 0;
+  padding: 40px 20px;
+}
+.Laskin-page main {
+  max-width: 700px;
+  margin: auto;
+  padding: 30px;
+  background: white;
+  border-radius: 12px;
+}
+.Laskin-page h1 { color: #c8a216; }
+.Laskin-page a { color: #c8a216; }
